@@ -1,0 +1,104 @@
+{
+  "name": "threejs-portfolio",
+  "private": true,
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
+  "author": {
+    "name": "Sanidhya Kumar Verma",
+    "email": "sanidhya.verma12345@gmail.com",
+    "url": "https://github.com/sanidhyy"
+  },
+  "description": "Modern UI/UX Portfolio using React and Three.js",
+  "keywords": [
+    "reactjs",
+    "netlify",
+    "react",
+    "modern-ui",
+    "modern-ux",
+    "portfolio",
+    "threejs",
+    "gsap",
+    "react-fiber",
+    "react-drei",
+    "react-three",
+    "emailjs",
+    "postcss",
+    "prettier",
+    "tailwindcss",
+    "tailwindcss-animate",
+    "ui/ux",
+    "js",
+    "javascript",
+    "typescript",
+    "eslint",
+    "html",
+    "css",
+    "js",
+    "ts"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanidhyy/threejs-portfolio.git"
+  },
+  "homepage": "https://github.com/sanidhyy/threejs-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/threejs-portfolio/issues",
+    "email": "sanidhya.verma12345@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
+  ],
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@gsap/react": "^2.1.1",
+    "@react-three/drei": "^9.56.14",
+    "@react-three/fiber": "^8.17.8",
+    "clsx": "^2.1.1",
+    "gsap": "^3.12.5",
+    "leva": "^0.10.0",
+    "maath": "^0.10.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-globe.gl": "^2.27.2",
+    "react-responsive": "^10.0.0",
+    "sonner": "^2.0.1",
+    "tailwind-merge": "^3.0.1",
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.3",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react": "^7.36.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^16.0.0",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.8",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.0.1",
+    "vite": "^6.0.3"
+  }
+}
