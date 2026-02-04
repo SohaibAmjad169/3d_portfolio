@@ -1,4 +1,4 @@
-# Code of Conduct - Threejs Portfolio
+# Code of Conduct - new react Portfolio
 
 ## Our Pledge
 
